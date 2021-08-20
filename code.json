@@ -1,0 +1,50 @@
+[
+  {
+    "name": "cusvm",
+    "organization": "U.S. Geological Survey",
+    "description": "Utility to extract velocity profiles from the central U.S. velocity model, v1.3",
+    "version": "v1.3.0",
+    "status": "Ideation",
+    "ip": "128821",
+    "doi": "doi:10.5066/P939E3EZ",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/blob/master/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/",
+    "downloadURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/repository/archive.zip",
+    "disclaimerURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/blob/master/DISCLAIMER.md",
+    "repositoryURL": "https://code.usgs.gov/ghsc/nshmp/cusvm.git",
+    "vcs": "git",
+
+    "laborHours": 10,
+
+    "tags": [
+      "Earthquake Hazards",
+      "Geologic Hazards Science Center",
+      "Geophysical Properties"
+    ],
+
+    "languages": [
+      "c",
+      "matlab"
+    ],
+
+    "contact": {
+      "name": "Oliver Boyd",
+      "email": "olboyd@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2020-06-03"
+    }
+  }
+]
+
