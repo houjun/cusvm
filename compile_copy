@@ -1,0 +1,6 @@
+cd ./GEODATAQ
+make clean
+make
+cd ..
+cp ./GEODATAQ/geodataq geodataquery
+cp ./GEODATAQ/geodataq ./GUI/geodataq
