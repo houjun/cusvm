@@ -1,0 +1,9 @@
+hororvert   = 1
+originLon   = -91
+originLat   = 35
+originDepth = 0
+finalLon    = -90
+finalLat    = 35
+finalDepth  = 1e4
+numAlong    = 100
+numD        = 100
