@@ -5,7 +5,7 @@
     "description": "Utility to extract velocity profiles from the central U.S. velocity model, v1.3",
     "version": "v1.3.0",
     "status": "Production",
-    "ip": "128821",
+    "ip": "132216",
     "doi": "doi:10.5066/P939E3EZ",
 
     "permissions": {
