@@ -4,29 +4,29 @@
     "organization": "U.S. Geological Survey",
     "description": "Utility to extract velocity profiles from the central U.S. velocity model, v1.3",
     "version": "v1.3.0",
-    "status": "Production",
-    "ip": "132216",
-    "doi": "doi:10.5066/P939E3EZ",
+    "status": "Development",
 
     "permissions": {
       "usageType": "openSource",
       "licenses": [
         {
           "name": "Public Domain, CC0-1.0",
-          "URL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/blob/main/LICENSE.md"
+          "URL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/raw/main/LICENSE.md"
         }
       ]
     },
 
     "homepageURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/",
-    "downloadURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/repository/archive.zip",
-    "disclaimerURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/blob/main/DISCLAIMER.md",
+    "downloadURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/archive/main/cusvm-m.zip",
+    "disclaimerURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/raw/main/DISCLAIMER.md",
     "repositoryURL": "https://code.usgs.gov/ghsc/nshmp/cusvm.git",
     "vcs": "git",
 
     "laborHours": 10,
 
     "tags": [
+      "ipds|IP-132216",
+      "doi|10.5066/P939E3EZ",
       "Earthquake Hazards",
       "Geologic Hazards Science Center",
       "Geophysical Properties"
