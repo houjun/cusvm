@@ -4,21 +4,21 @@
     "organization": "U.S. Geological Survey",
     "description": "Utility to extract velocity profiles from the central U.S. velocity model, v1.3",
     "version": "v1.3.0",
-    "status": "Development",
+    "status": "Production",
 
     "permissions": {
       "usageType": "openSource",
       "licenses": [
         {
           "name": "Public Domain, CC0-1.0",
-          "URL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/raw/main/LICENSE.md"
+          "URL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/raw/v1.3/LICENSE.md"
         }
       ]
     },
 
     "homepageURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/",
-    "downloadURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/archive/main/cusvm-m.zip",
-    "disclaimerURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/raw/main/DISCLAIMER.md",
+    "downloadURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/archive/v1.3/cusvm-m.zip",
+    "disclaimerURL": "https://code.usgs.gov/ghsc/nshmp/cusvm/-/raw/v1.3/DISCLAIMER.md",
     "repositoryURL": "https://code.usgs.gov/ghsc/nshmp/cusvm.git",
     "vcs": "git",
 
@@ -43,7 +43,7 @@
     },
 
     "date": {
-      "metadataLastUpdated": "2021-08-20"
+      "metadataLastUpdated": "2021-09-03"
     }
   }
 ]
